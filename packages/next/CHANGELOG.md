@@ -1,5 +1,11 @@
 # @vercel/next
 
+## 4.0.11
+
+### Patch Changes
+
+- fix `build` in appDir on Windows ([#10708](https://github.com/vercel/vercel/pull/10708))
+
 ## 4.0.10
 
 ### Patch Changes
